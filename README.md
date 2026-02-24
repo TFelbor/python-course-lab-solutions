@@ -1,6 +1,6 @@
 # Python Course Lab Solutions
 
-**Robotics & Mechatronics Engineering Master's | Polytech Nice-Sophia | Université Côte d’Azur
+**Robotics & Mechatronics Engineering Master's | Polytech Nice-Sophia | Université Côte d’Azur**
 
 This repository contains my solutions for the Python programming course labs at Polytech Nice-Sophia. These solutions are implemented in **pure Python** (using only the Standard Library) to demonstrate foundational algorithmic thinking and object-oriented programming.
 
